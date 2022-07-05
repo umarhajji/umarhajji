@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umar Hajji</h1>
-<h3 align="center">A passionate frontend developer and backend developer from Nigeria. I'm ready to network!!</h3>
+<h3 align="center">A passionate frontend developer and backend developer from Nigeria. I'm ready to connect and work!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarhajji&label=Profile%20views&color=0e75b6&style=flat" alt="umarhajji" /> </p>
 
