@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umarhajji" alt="umarhajji" /></a> </p>
 
-- 🔭 I’m currently working on **Election monitoring software**
+- 🔭 I’m currently working on **Core Banking Application**
 
 - 🌱 I’m currently learning **typescript**
 
